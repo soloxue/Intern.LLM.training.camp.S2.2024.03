@@ -16,6 +16,7 @@
 <img width="690" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/db666cc5-04cf-432b-ba23-98ad2bb5699f">
 
 下载完成，在jupyter lab打开查看文件内容：
+
 <img width="671" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/cbec2b07-2fbc-4dd6-9cb6-0c534d35a17e">
 
 
