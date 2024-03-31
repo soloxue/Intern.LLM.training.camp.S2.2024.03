@@ -12,6 +12,12 @@
 ## 进阶作业 (优秀学员必做)
 
 ### 熟悉 huggingface 下载功能，使用 huggingface_hub python 包，下载 InternLM2-Chat-7B 的 config.json 文件到本地（需截图下载过程）
+在python里导入hf_hub_download，然后设定model name， file name和本地路径，开始下载：
+<img width="690" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/db666cc5-04cf-432b-ba23-98ad2bb5699f">
+
+下载完成，在jupyter lab打开查看文件内容：
+<img width="671" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/cbec2b07-2fbc-4dd6-9cb6-0c534d35a17e">
+
 
 ### 完成 浦语·灵笔2 的 图文创作 及 视觉问答 部署（需截图）
 
