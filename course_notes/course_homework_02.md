@@ -17,4 +17,14 @@
 
 ### 完成 Lagent 工具调用 数据分析 Demo 部署（需截图）
 
+### 八戒
+一开始遇到无法访问的问题：
+![tBr0OboFPF](https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/946b6a2d-f898-47ec-a974-f658a14990eb)
+
+后来我换了个端口，就ok了。
+streamlit run /root/Tutorial/helloworld/bajie_chat.py --server.address 127.0.0.1 --server.port 8088
+ssh -CNg -L 8088:127.0.0.1:8088 root@ssh.intern-ai.org.cn -p 40186
+
+<img width="834" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/2144231e-14d6-4c70-97b0-31128a0ed917">
+
 
