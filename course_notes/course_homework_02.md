@@ -22,6 +22,18 @@
 
 ### 完成 浦语·灵笔2 的 图文创作 及 视觉问答 部署（需截图）
 
+图文创作：
+我给的prompt是：根据以下标题：“何以解忧，唯有杜康”，创作一篇300字的短文，并配2张图。以下是生成的结果：
+<img width="556" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/cde6da39-7aed-4d46-bb02-91adcb56c827">
+<img width="556" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/e951ac2f-132b-4987-898a-7d490e212021">
+<img width="565" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/c4fa79a2-a4d9-41f7-83a5-f9d6d4cb2fd1">
+
+
+
+
+视觉问答：
+
+
 ### 完成 Lagent 工具调用 数据分析 Demo 部署（需截图）
 升级到30%的GPU，然后按照教程，完成了Lagent的启动和问答。我问了一个新问题：请解方程 X ^ 2 - 3X + 4 = 535 之中 X 的结果
 <img width="869" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/6b428ce2-7a45-4f4f-9a78-95f49624f783">
