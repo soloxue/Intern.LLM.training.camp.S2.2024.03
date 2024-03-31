@@ -16,6 +16,9 @@
 ### 完成 浦语·灵笔2 的 图文创作 及 视觉问答 部署（需截图）
 
 ### 完成 Lagent 工具调用 数据分析 Demo 部署（需截图）
+升级到30%的GPU，然后按照教程，完成了Lagent的启动和问答。我问了一个新问题：请解方程 X ^ 2 - 3X + 4 = 535 之中 X 的结果
+<img width="869" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/6b428ce2-7a45-4f4f-9a78-95f49624f783">
+
 
 ### 八戒
 一开始遇到无法访问的问题：
