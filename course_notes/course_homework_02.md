@@ -32,11 +32,13 @@
 
 视觉问答：
 这次我提供了一张张飞的立绘图，让模型生成理解信息。
-这是图片：
-![张飞](https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/d22fc745-14a5-4b67-a6da-5e4ff525f53e)
-这是模型的输出结果：
-![Uploading image.png…]()
 
+这是图片：
+
+![张飞](https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/d22fc745-14a5-4b67-a6da-5e4ff525f53e)
+
+这是模型的输出结果：
+<img width="596" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/0ea566f3-31ac-42cb-ad61-80d7ecaedc80">
 
 
 ### 完成 Lagent 工具调用 数据分析 Demo 部署（需截图）
