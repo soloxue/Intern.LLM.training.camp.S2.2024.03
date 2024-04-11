@@ -35,3 +35,18 @@
 
 
 ## 基础作业2 - 在 InternLM Studio 上部署茴香豆技术助手
+
+环境已经部署好了，并已经对/root/huixiangdou/huixiangdou/main.py中相关的部分做了修改：
+
+<img width="539" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/c4d08a92-c03f-489c-abdd-448b74b058b9">
+
+
+**运行茴香豆**
+
+<img width="944" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/f6eec582-68f2-4c50-ad59-fb5fce018570">
+
+<img width="934" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/be86c140-db8e-4683-89cc-e0b1c739a2ca">
+
+<img width="929" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/5283dd48-dee5-4842-8b72-5aac95155abe">
+
+
