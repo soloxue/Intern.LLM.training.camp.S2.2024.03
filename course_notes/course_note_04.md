@@ -12,6 +12,24 @@
 
 ## 微调理论讲解及 XTuner 介绍
 - **微调** (Finetune) 是对预训练大模型进行特定任务或领域的调整，以提高模型在特定任务上的表现。
+
+两种微调方式：
+<img width="839" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/8778246a-a001-4551-8970-5296fed92d96">
+
+数据的准备流程：
+
+<img width="884" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/c7c7d389-f0ac-4865-bc73-8a34f70ff0d0">
+
+什么事对话模版？
+<img width="889" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/5ea5bf6b-7c56-4d97-8487-2d5c2ac2fcd8">
+
+两种PEFT方法：
+<img width="838" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/8ae64e8e-f9eb-406d-a581-c52d99b2b150">
+
+<img width="953" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/64b154ac-c265-43c4-a7a7-59116f6d45a5">
+
+
+  
 - **XTuner** 是一个低门槛的微调框架，支持多种生态适配，具有集成化微调工具，能够在较低显存配置下运行。
 
 ## XTuner 微调小助手个人认知实战
