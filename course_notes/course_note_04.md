@@ -53,8 +53,19 @@
 
 ## XTuner 微调 llava 图片理解多模态模型实战
 - **多模态LLM**: 结合文本和图像信息，提升模型对图片内容的理解能力。
+
+<img width="799" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/ace34869-43d4-4a0e-a019-aa5bc1ed3b16">
+
+
 - **LLaVA方案**: 通过训练Image Projector，使LLM具备视觉能力，能够对图片进行描述和理解。
+
+<img width="791" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/a8d8c2c3-6b58-4b45-adba-83ceaefe1cd6">
+
 - **训练阶段**: 分为预训练和微调两个阶段，预训练阶段使用网络爬取的数据，微调阶段使用高质量监督数据。
+
+<img width="877" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/4c09711f-38e5-4a02-b034-d805145b6b65">
+
+
 
 ## 总结
 本次课程深入讲解了微调理论和XTuner框架的使用，并通过两个实战案例展示了如何微调大模型以适应特定任务。通过学习，我们了解了微调的基本概念、XTuner框架的特点和使用方法，以及如何构建和训练多模态模型。这些知识和技能对于提升大模型在实际应用中的表现至关重要。
