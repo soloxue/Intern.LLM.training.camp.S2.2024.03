@@ -23,6 +23,20 @@
 <img width="567" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/1d1f66f0-9d57-4b71-9b08-5ff69a8c3d56">
 
 
+### 模型训练
+常规训练
+
+<img width="746" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/8204c896-7737-4f6c-b35b-b66bec21e030">
+
+上面的‘自有的代价大佬’是我自定义的用户名字。
+
+<img width="433" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/cb764ba9-d881-41e7-828b-838b4dbac260">
+
+
+
+### 模型转换、整合、测试及部署
+
+
 
 
 
