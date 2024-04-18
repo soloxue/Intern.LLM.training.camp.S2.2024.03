@@ -2,9 +2,32 @@
 
 记录复现过程并截图
 
-## 基础作业（结营必做）
+## 基础作业：训练自己的小助手认知（记录复现过程并截图）
 
-- 训练自己的小助手认知（记录复现过程并截图）
+### 环境安装
+
+<img width="650" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/60c54657-2efd-47ff-8d8b-42f7761a4b44">
+
+### 相关准备
+脚本准备
+
+<img width="719" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/b6316ab0-1b0a-4fbd-912c-8f0bf1dc767c">
+
+
+模型准备
+
+<img width="598" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/6efdf053-9e20-4621-b7b6-5141b77fb9f9">
+
+配置文件选择
+
+<img width="567" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/1d1f66f0-9d57-4b71-9b08-5ff69a8c3d56">
+
+
+
+
+
+
+  
 
 ## 进阶作业
 
