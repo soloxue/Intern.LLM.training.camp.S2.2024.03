@@ -3,6 +3,8 @@
 
 ## 基础作业 1, 完成Lagent web demo，并上传截图
 
+### 基础环境准备
+
 创建开发机和配置conda环境
 
 <img width="490" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/7ca923bf-e50e-4490-8d72-985d3fc08f9e">
@@ -20,6 +22,22 @@
 准备tutorial
 
 <img width="545" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/e9d949c2-43b6-4174-9da0-04dcb5a3f2ab">
+
+
+### Lagent Web Demo
+
+使用 LMDeploy 部署
+
+conda activate agent
+lmdeploy serve api_server /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-7b \
+                            --server-name 127.0.0.1 \
+                            --model-name internlm2-chat-7b \
+                            --cache-max-entry-count 0.1
+
+
+
+启动并使用 Lagent Web Demo
+
 
 
 ## 基础作业 2， 完成AgentLego 直接使用过部分，并上传截图
