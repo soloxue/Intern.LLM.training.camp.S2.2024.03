@@ -1,12 +1,13 @@
 # 作业
 
-> [!TIP]
-> 结营必做基础作业；优秀学员或进入对应 SIG 需完成进阶作业。
 
-## 基础作业
+## 基础作业 1, 完成Lagent web demo，并上传截图
 
-1. 完成 Lagent Web Demo 使用，并在作业中上传截图。文档可见 [Lagent Web Demo](lagent.md#1-lagent-web-demo)
-2. 完成 AgentLego 直接使用部分，并在作业中上传截图。文档可见 [直接使用 AgentLego](agentlego.md#1-直接使用-agentlego)。
+
+## 基础作业 2， 完成AgentLego 直接使用过部分，并上传截图
+
+
+
    
 ## 进阶作业
 
