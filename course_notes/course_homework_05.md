@@ -3,6 +3,24 @@
 
 ## 基础作业 1, 完成Lagent web demo，并上传截图
 
+创建开发机和配置conda环境
+
+<img width="490" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/7ca923bf-e50e-4490-8d72-985d3fc08f9e">
+
+安装Lagent and AgentLego
+
+<img width="620" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/df56c7ce-057a-4543-aa84-8172e366a6bf">
+
+
+安装其他依赖
+
+<img width="506" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/bdc21dd8-ebe3-4ea8-965d-4ec3838744ad">
+
+
+准备tutorial
+
+<img width="545" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/e9d949c2-43b6-4174-9da0-04dcb5a3f2ab">
+
 
 ## 基础作业 2， 完成AgentLego 直接使用过部分，并上传截图
 
