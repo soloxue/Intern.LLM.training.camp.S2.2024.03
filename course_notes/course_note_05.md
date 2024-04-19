@@ -8,9 +8,10 @@
   - Lagent 调用已有 Arxiv 论文搜索工具实战
   - Lagent 新增自定义工具实战（以查询天气的工具为例）
   - AgentLego 新增 MagicMaker 文生图工具实战
-  - 视频地址：https://www.bilibili.com/video/BV1Pm41127jU/
-  - 课程文档：https://github.com/InternLM/Tutorial/blob/camp2/opencompass/readme.md
-  - 课程作业：https://github.com/InternLM/Tutorial/blob/camp2/opencompass/homework.md
+  - 视频地址：https://www.bilibili.com/video/BV1Xt4217728/
+  - 课程文档：https://github.com/InternLM/Tutorial/tree/camp2/agent
+  - 课程作业：https://github.com/InternLM/Tutorial/blob/camp2/agent/homework.md
+
 
 ## Agent 理论及 Lagent & AgentLego 开源产品介绍
 
