@@ -16,8 +16,25 @@
 ## Agent 理论及 Lagent & AgentLego 开源产品介绍
 
 - **Agent 理论**: 介绍了智能体（Agent）的基本概念和作用，以及在大型语言模型（LLM）中的应用。
+什么是agent
+
+<img width="881" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/9d807cbf-e856-43be-926f-589d854abea6">
+
+agent的组成部分：
+
+<img width="797" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/012925ff-ff07-4148-bd24-d9c6208a19fc">
+
+
 - **Lagent**: 一个轻量级开源框架，用于高效构建基于LLM的智能体，支持流式输出和多种模型接口。
+Lagent简介
+
+
+<img width="845" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/7692c98a-499a-4101-bc8f-8eec17eb98d1">
+
 - **AgentLego**: 提供了一系列工具和组件，用于扩展和定制智能体的功能。
+
+<img width="839" alt="image" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/3f63ef65-fc70-4f4f-8e45-c9f41cf4ef4d">
+
 
 ## Lagent 调用已有 Arxiv 论文搜索工具实战
 
